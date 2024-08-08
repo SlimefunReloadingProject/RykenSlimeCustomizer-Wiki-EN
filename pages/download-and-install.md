@@ -1,13 +1,14 @@
-# 下载与安装
+# Download and Install
 
-#### 下载 <a href="#xia-zai" id="xia-zai"></a>
+#### Download <a href="#xia-zai" id="xia-zai"></a>
 
-[HiMCBBS https://www.himcbbs.com/resources/10/](https://www.himcbbs.com/resources/10/)
+[Github https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer-EN/](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer/)
 
-[Github https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer/](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer/)
+#### Installation <a href="#an-zhuang" id="an-zhuang"></a>
 
-#### 安装 <a href="#an-zhuang" id="an-zhuang"></a>
+All addons'
+installation methods are to place the respective jar file in the `plugins` directory and then **restart the server**.
 
-所有附属的安装方法，都是把附属的jar丢到`plugins`目录，然后**重启服务器**。
-
-<mark style="color:red;">**注意！**</mark>该附属需要[Paper](https://papermc.io/downloads)服务端才能运行，请在下载时注意标注的运行要求。该插件的附属需要丢进`RykenSlimeCustomizer/addons`文件夹里。
+<mark style="color: red;font-weight: bold"> BE CAREFUL！</mark>This addon requires the <a href="https://papermc.io/downloads">Paper</a> server software to run.
+Please note the marked requirements when downloading.
+The addon's addon files need to be placed in the `RykenSlimeCustomizer/addons` folder.

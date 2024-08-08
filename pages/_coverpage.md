@@ -4,13 +4,11 @@
 
 # RykenSlimeCustomizer <small>RSC</small> :id=home
 
-> RSC自定义粘液附属
-
-- 与SlimeCustomizer相比，RykenSlimeCustomizer自定义能力更强
-- 拥有独特的脚本功能使可自定义范围更广，将局限性降至最低
-- 关于本插件的具体用法请点击*开始使用*
-- 插件作者：lijinhong11
-- Wiki贡献：HiTech0926、lijinhong11、BoXueDuoCai、balugaq、haiman233（贡献大小排列）
+* Compared to SlimeCustomizer, RykenSlimeCustomizer has stronger customization capabilities
+* With unique scripting features, it allows for a broader range of customization, minimizing limitations
+* For specific usage of this plugin, please click*Start Using*
+* Plugin Author: lijinhong11
+* Wiki Contributors: HiTech0926, lijinhong11, BoXueDuoCai, balugaq, haiman233 (sorted by contribution size)
 
 [GitHub](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer)
-[开始使用](README)
+[Start Using](README)

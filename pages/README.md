@@ -46,7 +46,7 @@ RykenSlimeCustomizer将配置与脚本结合（脚本是非必须选项），使
 
 ## 特别说明
 
-1、RykenSlimeCustomizer拥有与SlimeCustomizer相同的**保存物品（saveitem）**功能，所以在本wiki对**保存物品**不过多赘述，详情见[SlimeCustomizer wiki](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)
+1、RykenSlimeCustomizer拥有与SlimeCustomizer相同的**保存物品（saveitem）**功能，所以在本wiki对**保存物品**不过多赘述
 
 2、RykenSlimeCustomizer与SlimeCustomizer互不冲突，可同时共存
 
